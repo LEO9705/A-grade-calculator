@@ -12,11 +12,13 @@ A C++ compiler (g++ or clang++)
 g++ practicebymself.cpp -o app.exe
 ```
 # Command Prompt:
+```bash
 app.exe
-
+```
 # PowerShell:
+```bash
 .\app.exe
-
+```
 ## How to run (macOS / Linux)
 ```bash
 g++ practicebymself.cpp -o app
