@@ -7,7 +7,17 @@ If the input is invalid, it shows an error message.
 ## Requirements
 A C++ compiler (g++ or clang++)
 
+## How to run (Windows, MinGW)
+g++ practicebymself.cpp -o app.exe
+
+# Command Prompt:
+app.exe
+
+# PowerShell:
+.\app.exe
+
 ## How to run (macOS / Linux)
 ```bash
 g++ practicebymself.cpp -o app
 ./app
+
