@@ -1,3 +1,16 @@
-# A-grade-calculator
-For my 1st attempt ever, I made a grade calculator. If I put the score, it will show me the grade A-f, while be able to point out if there is a unvalid enter. I wanted to make it able to let the user re-enter the score when there is an unvalid score. There must be a faster, smarter beter way to code, right? I still do not know it though.
-At first, you will enter your score like 95, and then it will give you the corresponding grade for that score. If you enter unvalid scores, like -90, it will give you an error message asking you to retry.
+# Grade Calculator (C++)
+
+## What it does
+Takes a score (0–100) and outputs a letter grade (A–F).
+If the input is invalid, it shows an error message.
+
+## Requirements
+A C++ compiler (g++ or clang++)
+
+## How to run (macOS / Linux)
+g++ practicebymself.cpp -o app
+./app
+
+## How to run (Windows, MinGW)
+g++ practicebymself.cpp -o app.exe
+app.exe
