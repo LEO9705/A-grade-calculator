@@ -14,6 +14,7 @@ g++ practicebymself.cpp -o app
 ## How to run (Windows, MinGW)
 g++ practicebymself.cpp -o app.exe
 app.exe
+.\app.exe
 
 ## Example
 Input: 95
