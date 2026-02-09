@@ -8,8 +8,9 @@ If the input is invalid, it shows an error message.
 A C++ compiler (g++ or clang++)
 
 ## How to run (Windows, MinGW)
+```bash
 g++ practicebymself.cpp -o app.exe
-
+```
 # Command Prompt:
 app.exe
 
